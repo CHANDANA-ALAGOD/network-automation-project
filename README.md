@@ -85,5 +85,5 @@ This project is licensed under the MIT License.
 ## Author
 Chandana Palagod
 
-If you find this project useful, consider giving the repository a star on GitHub.
+
 
